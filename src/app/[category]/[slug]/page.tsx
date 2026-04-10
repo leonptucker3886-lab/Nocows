@@ -3,15 +3,17 @@ import Link from 'next/link';
 import { articles } from '../../../lib/articles';
 
 interface PageProps {
-  params: {
+  params: Promise<{
     category: string;
     slug: string;
-  };
+  }>;
 }
 
-export default function ArticlePage({ params }: PageProps) {
+export default async function ArticlePage({ params }: PageProps) {
+  const { category, slug } = await params;
+
   const article = articles.find(
-    a => a.category === params.category && a.slug === params.slug
+    a => a.category === category && a.slug === slug
   );
 
   if (!article) {
@@ -21,8 +23,8 @@ export default function ArticlePage({ params }: PageProps) {
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <nav className="mb-8">
-        <Link href={`/${params.category}`} className="text-blue-600 hover:underline">
-          ← Back to {params.category.replace('-', ' ')}
+        <Link href={`/${category}`} className="text-blue-600 hover:underline">
+          ← Back to {category.replace('-', ' ')}
         </Link>
       </nav>
 
