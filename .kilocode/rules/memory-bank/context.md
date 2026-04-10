@@ -15,6 +15,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Memory bank documentation
 - [x] Recipe system for common features
 - [x] Created "No Sacred Cows" blog with animated logo, navigation, search, categories, and articles
+- [x] Updated all articles to be funny and relevant to 2026 (non-historical categories)
 
 ## Current Structure
 
@@ -92,3 +93,4 @@ export async function GET() {
 |------|---------|
 | Initial | Template created with base setup |
 | 2024-10-10 | Built "No Sacred Cows" blog: logo, navigation, search, 9 categories with 2 articles each, article pages |
+| 2026-04-10 | Updated all blog posts to be funny and relevant to 2026 for non-historical categories

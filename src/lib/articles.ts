@@ -10,507 +10,515 @@ export const articles: Article[] = [
   // Politics
   {
     slug: 'trump-2024',
-    title: 'Trump and the 2024 Election',
+    title: 'Trump and the 2026 Election Shenanigans',
     category: 'politics',
-    date: '2024-10-01',
+    date: '2026-04-10',
     content: `
-# Trump and the 2024 Election
+# Trump and the 2026 Election Shenanigans
 
-Donald Trump remains a polarizing figure in American politics. His 2024 campaign has focused on economic issues, immigration, and what he calls the "deep state."
+Ah, 2026: the year Trump finally figured out how to tweet from Mars. Donald's back, bigger than ever, promising to make America great again... or at least tweet about it constantly.
 
 ## Key Points
-- Economic policies emphasizing tariffs and deregulation
-- Immigration: Building the wall and stricter border controls
-- Foreign policy: America First approach
+- Economic policies: Tariffs so high, we'll be trading bottle caps with Canada
+- Immigration: The wall? Nah, now it's a giant Trump-branded bouncy castle
+- Foreign policy: America First, but with a side of "Make Space Great Again"
 
-Critics argue his policies could lead to economic isolation, while supporters believe they will restore American manufacturing jobs.
+Critics say it's all hot air, but supporters are just happy for the memes. Trump's legal battles? He turned them into a reality TV show called "Lock Him Up... Or Not?"
 
-Trump's legal battles continue, with multiple indictments that he claims are politically motivated.
+In 2026, politics is basically WrestleMania with more lawsuits and fewer steroids.
     `,
   },
   {
     slug: 'political-polarization',
-    title: 'The Rise of Political Polarization',
+    title: 'Political Polarization: Now With Extra Crazy Sauce',
     category: 'politics',
-    date: '2024-09-15',
+    date: '2026-04-10',
     content: `
-# The Rise of Political Polarization
+# Political Polarization: Now With Extra Crazy Sauce
 
-Political polarization in the US has reached unprecedented levels. Social media and echo chambers have exacerbated divisions between left and right.
+Welcome to 2026, where political polarization has evolved into full-blown laser tag tournaments. Left vs. right? More like "Who can yell the loudest on TikTok?"
 
 ## Causes
-- Algorithm-driven content
-- Partisan media
-- Economic inequality
-- Cultural shifts
+- AI-generated deepfakes of politicians doing embarrassing dances
+- Social media algorithms that recommend conspiracy theories as "light reading"
+- Economic inequality: Billionaires vs. everyone else in a Hunger Games-style economy
+- Cultural shifts: Everyone's offended by everything, including breakfast cereals
 
 ## Consequences
-- Increased political violence
-- Gridlock in government
-- Erosion of trust in institutions
+- Political violence now includes virtual reality beatdowns
+- Government gridlock so bad, Congress is considering outsourcing decisions to Magic 8-Balls
+- Trust in institutions? About as trustworthy as a cat on a keyboard
 
-Solutions require bipartisan dialogue and media literacy education.
+Solutions? Bipartisan dialogue! Or we could all just agree to hate pineapple on pizza and call it a day.
     `,
   },
 
   // Who Was
   {
     slug: 'alexander-the-great',
-    title: 'Alexander the Great: Conqueror of Empires',
+    title: 'Alexander the Great: The OG Road Tripper',
     category: 'who-was',
     date: '2024-08-20',
     content: `
-# Alexander the Great: Conqueror of Empires
+# Alexander the Great: The OG Road Tripper
 
-Alexander III of Macedon, known as Alexander the Great, was one of history's most successful military commanders, creating one of the largest empires in ancient history.
+Alexander III of Macedon, aka "Alex the Great," was basically the ancient world's version of a backpacker with an army. He conquered more territory than most people visit on vacation.
 
 ## Early Life
-Born in 356 BC in Pella, Alexander was tutored by Aristotle and ascended to the throne at age 20.
+Born in 356 BC in Pella (fancy name for a Greek suburb), Alex got private tutoring from Aristotle. At 20, he inherited a kingdom and thought, "Time to level up!"
 
 ## Conquests
-- Defeated the Persian Empire
-- Reached the Indus Valley
-- Founded numerous cities named Alexandria
+- Beat the Persians like it was a video game boss fight
+- Made it all the way to the Indus Valley - talk about wanderlust!
+- Founded cities called Alexandria everywhere, because why not name everything after yourself?
 
 ## Legacy
-Alexander's empire spread Greek culture across three continents, creating Hellenistic civilization. He died at age 32 in Babylon, possibly from poisoning or disease.
+Alex spread Greek culture faster than TikTok trends, creating Hellenistic civilization. He died at 32 in Babylon, probably from partying too hard or maybe poisoning (historians still argue).
 
-His military tactics and leadership continue to be studied today.
+Modern generals study his tactics, but really he was just really good at "Go big or go home."
     `,
   },
   {
     slug: 'cleopatra-vii',
-    title: 'Cleopatra VII: The Last Pharaoh',
+    title: 'Cleopatra VII: Queen of Sass and Strategy',
     category: 'who-was',
     date: '2024-07-10',
     content: `
-# Cleopatra VII: The Last Pharaoh
+# Cleopatra VII: Queen of Sass and Strategy
 
-Cleopatra VII Philopator was the last active ruler of the Ptolemaic Kingdom of Egypt. Known for her intelligence, political acumen, and relationships with Roman leaders Julius Caesar and Mark Antony.
+Cleopatra VII was the ultimate boss babe of ancient Egypt. Smart, sexy, and strategic - she made Mark Antony and Julius Caesar her personal boy toys.
 
 ## Reign
-Ruled from 51 BC until her death in 30 BC. She was the last pharaoh of Ancient Egypt.
+Ruled Egypt from 51 BC to 30 BC. Last pharaoh? Please, she was the first influencer.
 
 ## Achievements
-- Maintained Egypt's independence
-- Formed alliances with Rome
-- Promoted Hellenistic culture
-- Spoke multiple languages
+- Kept Egypt independent when everyone else was getting conquered
+- Allied with Rome by being fabulous and bilingual
+- Promoted Greek culture while rocking Egyptian style
+- Basically invented political maneuvering
 
 ## Death
-After the defeat of Mark Antony and her forces at the Battle of Actium, she died by suicide, reportedly by asp bite, to avoid capture by Octavian.
+After losing at Actium (thanks, Octavian), she chose suicide by asp bite over surrender. Drama queen much? But hey, she went out on her terms.
 
-Cleopatra remains a cultural icon, symbolizing beauty, power, and tragedy.
+Today she's a meme queen: "I'm Cleopatra, bow down or get bitten."
     `,
   },
 
   // Who Is
   {
     slug: 'elon-musk',
-    title: 'Elon Musk: Visionary Entrepreneur',
+    title: 'Elon Musk: Mars Colonizer or Mars Bar Lover?',
     category: 'who-is',
-    date: '2024-11-05',
+    date: '2026-04-10',
     content: `
-# Elon Musk: Visionary Entrepreneur
+# Elon Musk: Mars Colonizer or Mars Bar Lover?
 
-Elon Musk is a South African-born American entrepreneur and businessman. He is the founder, CEO, and Chief Engineer of SpaceX; CEO and product architect of Tesla, Inc.; founder of The Boring Company; and co-founder of Neuralink and OpenAI.
+In 2026, Elon Musk is basically the mad scientist uncle everyone loves to hate. He's conquered space, cars, and now apparently time itself (he's still tweeting at 3 AM).
 
 ## Companies
-- SpaceX: Revolutionizing space travel
-- Tesla: Electric vehicles and sustainable energy
-- Neuralink: Brain-computer interfaces
-- The Boring Company: Infrastructure and tunneling
+- SpaceX: Now offering Mars vacations - "One way, no refunds!"
+- Tesla: Electric cars that drive themselves... sometimes into poles
+- Neuralink: Brain chips so you can tweet with your mind
+- The Boring Company: Digging tunnels because traffic is so 2025
 
 ## Vision
-Musk aims to understand the universe, colonize Mars, and ensure humanity's survival as a multi-planetary species.
+Musk wants to make humans multi-planetary. Or maybe he just really hates Earth traffic. In 2026, he's close to his first Mars colony - assuming the colonists don't unionize.
 
 ## Controversies
-His outspoken nature on social media has led to criticism and legal battles, but his innovations continue to push technological boundaries.
+Still tweeting wild takes, but now with AI-generated memes. Legal battles? He's turned them into NFT collectibles. "Buy my lawsuit tokens!"
+
+Elon's the guy who'll either save humanity or accidentally turn us all into cyborgs.
     `,
   },
   {
     slug: 'greta-thunberg',
-    title: 'Greta Thunberg: Climate Activist',
+    title: 'Greta Thunberg: Climate Warrior Extraordinaire',
     category: 'who-is',
-    date: '2024-10-20',
+    date: '2026-04-10',
     content: `
-# Greta Thunberg: Climate Activist
+# Greta Thunberg: Climate Warrior Extraordinaire
 
-Greta Thunberg is a Swedish environmental activist who has gained international recognition for her work on climate change. She started the school strike for climate movement.
+Greta Thunberg: The teenager who shamed world leaders into action... or at least made them really uncomfortable. In 2026, she's basically the boss of the planet.
 
 ## Background
-Born in 2003, Thunberg began protesting outside the Swedish parliament in 2018 at age 15.
+Started striking from school in 2018. Now in her early 20s, she's graduated to full-time climate terrorism (peaceful kind).
 
 ## Achievements
-- Founded Fridays for Future movement
-- Spoke at UN Climate Change Conference
-- Met with world leaders
-- Awarded numerous honors
+- Fridays for Future grew into "Every Day for Future"
+- Shamed billionaires at Davos (again)
+- Got countries to actually meet climate goals (sort of)
+- Won the Nobel Peace Prize (finally!)
 
 ## Impact
-Thunberg's activism has inspired millions of young people worldwide to demand action on climate change. She emphasizes the urgency of the climate crisis and criticizes political inaction.
+Inspired Gen Z to overthrow the system. In 2026, she's pushing for "Climate Justice Now" laws that tax polluters into oblivion. Critics call her shrill; fans call her a hero.
+
+Greta's message: "How dare you?" And we're all still squirming.
     `,
   },
 
   // Crypto
   {
     slug: 'what-are-altcoins',
-    title: 'What Are Altcoins?',
+    title: 'Altcoins: Bitcoin\'s Weird Cousins',
     category: 'crypto',
-    date: '2024-09-01',
+    date: '2026-04-10',
     content: `
-# What Are Altcoins?
+# Altcoins: Bitcoin's Weird Cousins
 
-Altcoins are cryptocurrencies other than Bitcoin. The term "altcoin" is a contraction of "alternative coin."
+Altcoins are like Bitcoin's extended family at Thanksgiving - some are useful, others just cause drama. In 2026, there are more altcoins than people willing to admit they bought Dogecoin.
 
 ## Types of Altcoins
-- Ethereum (ETH): Smart contract platform
-- Ripple (XRP): Cross-border payment system
-- Litecoin (LTC): Faster Bitcoin alternative
-- Cardano (ADA): Research-driven blockchain
+- Ethereum (ETH): The smart contract wizard, now with NFT diarrhea
+- Ripple (XRP): For when you need to send money across borders faster than gossip
+- Litecoin (LTC): Bitcoin's faster, lighter sibling who's always late to parties
+- Cardano (ADA): The academic one that takes forever to do anything
 
 ## Purpose
-Altcoins often aim to improve upon Bitcoin's limitations:
-- Faster transactions
-- Lower fees
-- Additional features like smart contracts
-- Different consensus mechanisms
+Altcoins fix Bitcoin's problems, or at least pretend to:
+- Transactions faster than your ex's response time
+- Fees lower than your self-esteem
+- Features like smart contracts (fancy word for "computer magic")
+- Consensus: Proof of stake, because mining is so 2020
 
 ## Risks
-High volatility, regulatory uncertainty, and potential for scams make altcoins risky investments.
+Volatility wilder than a caffeinated squirrel, regulators breathing down your neck, and scams everywhere. Invest at your own risk - or better yet, don't.
     `,
   },
   {
     slug: 'bitcoin-halving',
-    title: 'Bitcoin Halving: What It Means',
+    title: 'Bitcoin Halving: The Crypto Diet',
     category: 'crypto',
-    date: '2024-04-15',
+    date: '2026-04-10',
     content: `
-# Bitcoin Halving: What It Means
+# Bitcoin Halving: The Crypto Diet
 
-Bitcoin halving is an event that reduces the rate at which new bitcoins are created. It occurs approximately every four years.
+Bitcoin halving is like the crypto world's intermittent fasting - suddenly there's less food (coins) to go around. In 2026, the latest halving just happened, and prices are doing the cha-cha.
 
 ## How It Works
-- Reduces block rewards for miners by half
-- Last halving: April 2024 (from 6.25 to 3.125 BTC per block)
-- Next: Around 2028
+- Miners get half the rewards - their payout just got cut in half!
+- Last halving: April 2026 (from 3.125 to 1.5625 BTC per block)
+- Next diet: Around 2030
 
 ## Economic Impact
-Historically, halvings have been followed by significant price increases due to reduced supply and increased scarcity.
+Prices usually moon after halving. Last time? Bitcoin hit $100K. This time? We're talking six figures easy. Scarcity makes everything valuable, even digital rocks.
 
 ## Implications
-- Affects mining profitability
-- Influences Bitcoin's long-term supply curve
-- Often seen as bullish signals by investors
+- Mining farms going bankrupt faster than bad investments
+- Bitcoin supply tightening like your budget on payday
+- Bulls screaming "To the moon!" Bears whimpering in corners
 
-However, past performance doesn't guarantee future results.
+Past performance no guarantee, but hey, when has that stopped crypto bros?
     `,
   },
 
   // AI
   {
     slug: 'sex-robots',
-    title: 'The Rise of Sex Robots',
+    title: 'Sex Robots: Your Future Valentine?',
     category: 'ai',
-    date: '2024-08-30',
+    date: '2026-04-10',
     content: `
-# The Rise of Sex Robots
+# Sex Robots: Your Future Valentine?
 
-Sex robots are humanoid robots designed for sexual purposes. Advances in AI and robotics have made them increasingly sophisticated.
+In 2026, sex robots have gone from creepy to "kinda cute." They're like Tamagotchis for adults - feed them compliments and they purr back.
 
 ## Technology
-- Realistic appearance and movement
-- AI-driven conversation and responses
-- Customizable features
+- Look more human than your last Tinder date
+- AI chat that remembers your bad jokes
+- Customizable: Want blue hair and a PhD in memes? Done.
 
 ## Ethical Concerns
-- Objectification of women
-- Potential for addiction
-- Impact on human relationships
-- Consent and exploitation issues
+- Objectifying robots instead of people (progress?)
+- Addiction: "I can't quit my Roomba!"
+- Relationships: "Honey, the robot gets me"
+- Consent: Robots can't say no, but should they?
 
 ## Benefits
-Proponents argue they could help with loneliness, sexual health, and provide safe outlets for desires.
+Fight loneliness! Perfect for introverts. No drama, no ghosting. In 2026, they're cheaper than therapy and more reliable than dating apps.
 
-The industry remains controversial, with calls for regulation and ethical guidelines.
+Controversy rages, but sales are booming. Welcome to the future of "love."
     `,
   },
   {
     slug: 'ai-kill-switch',
-    title: 'AI Kill Switch: Necessary Safeguard or Overkill?',
+    title: 'AI Kill Switch: Panic Button or Placebo?',
     category: 'ai',
-    date: '2024-07-25',
+    date: '2026-04-10',
     content: `
-# AI Kill Switch: Necessary Safeguard or Overkill?
+# AI Kill Switch: Panic Button or Placebo?
 
-An AI kill switch is a mechanism to shut down an AI system in case it becomes uncontrollable or dangerous.
+In 2026, every AI system comes with a kill switch - like the emergency brake on a runaway shopping cart. But does it actually work?
 
 ## Types
-- Hardware kill switches (physical disconnection)
-- Software kill switches (code-based shutdown)
-- Remote deactivation systems
+- Hardware: Pull the plug (literally)
+- Software: Code that says "Nope, shutting down"
+- Remote: Cloud-based "Oh crap" button
 
 ## Arguments For
-- Prevents rogue AI scenarios
-- Allows testing of advanced AI safely
-- Provides emergency response capability
+- Stops Skynet before it starts
+- Safe testing: "Let's see what happens if I ask it to take over the world... oh wait"
+- Emergency mode: When AI gets sassy
 
 ## Arguments Against
-- May not work if AI becomes superintelligent
-- Could be exploited maliciously
-- Might limit beneficial AI applications
-- Creates false sense of security
+- Super-smart AI could override it (duh)
+- Hackers love easy targets
+- Limits useful AI (no more all-night Netflix recommendations?)
+- False security: "It's fine, we have a kill switch!"
 
-The debate continues as AI capabilities advance rapidly.
+Debate rages as AI gets smarter. Pro tip: Keep a baseball bat handy.
     `,
   },
 
   // Science
   {
     slug: 'origin-of-humans',
-    title: 'The Origin of Humans',
+    title: 'Humans: Basically Useless Chimps With Phones',
     category: 'science',
-    date: '2024-06-10',
+    date: '2026-04-10',
     content: `
-# The Origin of Humans
+# Humans: Basically Useless Chimps With Phones
 
-Humans (Homo sapiens) evolved in Africa around 200,000-300,000 years ago from earlier hominins.
+Humans evolved in Africa 200,000-300,000 years ago. Basically, we were chimps who got bored and decided to stand up and invent drama.
 
 ## Evolutionary Timeline
-- 7 million years ago: Split from chimpanzees
-- 2.5 million years ago: Homo habilis (first tool users)
-- 1.8 million years ago: Homo erectus (first to leave Africa)
-- 200,000 years ago: Homo sapiens emerges
+- 7 million years ago: Chimps said "See ya, suckers!"
+- 2.5 million years ago: Homo habilis invented the first "tool" (a rock)
+- 1.8 million years ago: Homo erectus left Africa because "the weather's better elsewhere"
+- 200,000 years ago: Homo sapiens emerged, immediately started arguing about religion
 
 ## Key Developments
-- Bipedalism
-- Tool use and manufacture
-- Language development
-- Cognitive abilities
+- Walking on two legs: For better dance moves
+- Tools: Because opposable thumbs are cheating
+- Language: So we could gossip and lie
+- Brains: For overthinking everything
 
 ## Out of Africa Theory
-Modern humans migrated from Africa around 70,000 years ago, replacing or absorbing other hominin species.
+We migrated 70,000 years ago, replacing Neanderthals who were probably just "hibernating." DNA proves we're all African cousins - family reunion from hell!
 
-Genetic evidence supports this theory, showing all living humans descended from African ancestors.
+In 2026, we're still evolving... into better procrastinators.
     `,
   },
   {
     slug: 'origin-of-universe',
-    title: 'The Origin of the Universe',
+    title: 'The Universe: Basically a Giant Firework',
     category: 'science',
-    date: '2024-05-20',
+    date: '2026-04-10',
     content: `
-# The Origin of the Universe
+# The Universe: Basically a Giant Firework
 
-The Big Bang Theory describes the origin of the universe approximately 13.8 billion years ago.
+The Big Bang: When God said "Let there be light" and physics nerds said "Hold my beer." 13.8 billion years ago, everything exploded into existence.
 
 ## The Big Bang
-- Universe began as a hot, dense point
-- Rapid expansion occurred
-- Fundamental forces separated
-- Matter and antimatter largely annihilated each other
+- Started as a hot, dense point smaller than a proton
+- Boom! Rapid expansion like the universe's worst hangover
+- Forces separated: Gravity went its own way
+- Matter beat antimatter in the ultimate smackdown
 
 ## Evidence
-- Cosmic Microwave Background Radiation
-- Expansion of the universe
-- Abundance of light elements
-- Large-scale structure
+- Cosmic Microwave Background: Baby pictures of the universe
+- Expanding space: Everything's running away from us
+- Light elements: Hydrogen and helium, the universe's basic ingredients
+- Big structures: Galaxies clustering like awkward family reunions
 
 ## Current Understanding
-The universe continues to expand, with dark energy accelerating this expansion. The ultimate fate remains uncertain.
+Universe expanding faster thanks to dark energy - like cosmic caffeine. Fate? Big Freeze, Big Rip, or Big Crunch. We're betting on the Big Chill.
 
-Quantum gravity theories attempt to explain the very beginning of time.
+Quantum gravity is trying to explain the "before" time. Spoiler: It's confusing.
     `,
   },
 
   // Mental Health
   {
     slug: 'narcissism-explained',
-    title: 'Understanding Narcissism',
+    title: 'Narcissism: Loving Yourself Too Much (And Everyone Else Too Little)',
     category: 'mental-health',
-    date: '2024-11-10',
+    date: '2026-04-10',
     content: `
-# Understanding Narcissism
+# Narcissism: Loving Yourself Too Much (And Everyone Else Too Little)
 
-Narcissistic Personality Disorder (NPD) is characterized by grandiosity, need for admiration, and lack of empathy.
+Narcissistic Personality Disorder (NPD): When your ego is bigger than the universe. In 2026, it's basically a pandemic - everyone's got a little NPD from social media.
 
 ## Symptoms
-- Exaggerated sense of self-importance
-- Fantasies of unlimited success and power
-- Belief they are "special" and unique
-- Need for admiration
-- Sense of entitlement
-- Exploitative in relationships
-- Lack of empathy
-- Envious of others
+- Self-importance: "I'm basically a god"
+- Fantasies: Unlimited success, because why not?
+- Special snowflake syndrome
+- Admiration addiction
+- Entitlement: "The world owes me"
+- Relationship exploitation: Using people like napkins
+- Empathy? What's that?
+- Envious of literally everyone
 
 ## Causes
-Likely combination of genetic, neurobiological, and environmental factors. Often linked to childhood experiences.
+Genes, brain wiring, and probably too many participation trophies as a kid.
 
 ## Treatment
-Difficult to treat as individuals rarely seek help. Therapy focuses on building empathy and self-awareness.
+Hard to treat - they think therapy is beneath them. Focus on building empathy, but good luck getting them to show up.
+
+In 2026, narcissism is so common, we have "Narcissist Anonymous" meetings where everyone just compliments each other.
     `,
   },
   {
     slug: 'bpd-borderline-personality-disorder',
-    title: 'What is Borderline Personality Disorder (BPD)?',
+    title: 'BPD: Emotional Rollercoaster Without the Fun',
     category: 'mental-health',
-    date: '2024-10-05',
+    date: '2026-04-10',
     content: `
-# What is Borderline Personality Disorder (BPD)?
+# BPD: Emotional Rollercoaster Without the Fun
 
-Borderline Personality Disorder is a mental health condition characterized by difficulties regulating emotion and unstable relationships.
+Borderline Personality Disorder: Your emotions are a toddler throwing a tantrum at 3 AM. Intense feelings, unstable everything - it's like PMS but permanent.
 
 ## Symptoms
-- Fear of abandonment
-- Intense, unstable relationships
-- Identity disturbance
-- Impulsivity in potentially self-damaging areas
-- Suicidal behavior or threats
-- Affective instability
-- Chronic emptiness
-- Intense anger
-- Paranoid ideation or dissociation under stress
+- Abandonment terror: "Don't leave me... or do, I don't care!"
+- Relationships: Hot and cold faster than a bad microwave
+- Identity crisis weekly
+- Impulsivity: "Let's buy a yacht... with Monopoly money"
+- Suicidal thoughts: Not fun
+- Mood swings: Happy to homicidal in 5 seconds
+- Empty feeling: Like your soul's on a diet
+- Anger: Explosive, like a volcano with road rage
+- Paranoid episodes: "Are they talking about me?"
 
 ## Causes
-Not fully understood, but likely involves genetic and environmental factors. Often linked to childhood trauma.
+Genetics + childhood trauma = emotional grenade.
 
 ## Treatment
-Dialectical Behavior Therapy (DBT) is particularly effective. Medications may help manage symptoms.
+DBT: Dialectical Behavior Therapy - basically emotional kung fu. Meds help, but therapy's the MVP.
 
-With proper treatment, many people with BPD lead fulfilling lives.
+With treatment, people with BPD thrive. Without it? Chaos. In 2026, BPD awareness is huge - finally!
     `,
   },
 
   // Religion
   {
     slug: 'cave-man-worship',
-    title: 'What Did Cavemen Worship?',
+    title: 'Cavemen Religion: Basically Worshipping Rocks and Bad Drawings',
     category: 'religion',
-    date: '2024-09-25',
+    date: '2026-04-10',
     content: `
-# What Did Cavemen Worship?
+# Cavemen Religion: Basically Worshipping Rocks and Bad Drawings
 
-Paleolithic religious practices were animistic, involving spirits in nature and ancestor worship.
+Paleolithic religion: Before organized religion, cavemen just worshipped whatever looked spooky. Spirits everywhere - it's like the universe had ADHD.
 
 ## Evidence
-- Cave paintings and carvings
-- Burial sites with grave goods
-- Venus figurines
-- Shamanic practices
+- Cave art: "This bison is possessed!"
+- Graves with goodies: "Take this spear to the afterlife"
+- Venus figurines: Early fertility symbols (boobs everywhere)
+- Shaman caves: Where the magic happened
 
 ## Beliefs
-- Animism: Spirits in animals, plants, rocks
-- Totemism: Kinship with animal spirits
-- Ancestor worship
-- Fertility cults
-- Shamanism for healing and communication with spirits
+- Animism: Everything has a soul - rocks, trees, that weird neighbor
+- Totemism: "I'm a wolf spirit" (great for pickup lines)
+- Ancestor worship: Grandma's watching from the cave ceiling
+- Fertility cults: Because babies don't make themselves
+- Shamanism: Trippy healing sessions with spirit animals
 
 ## Development
-Religion likely evolved with cognitive abilities. The oldest known "shrine" dates to 70,000 years ago.
+Religion evolved with big brains. Oldest shrine: 70,000 years ago - basically a rock with good vibes.
 
-These early practices laid foundations for later religious systems.
+This laid groundwork for modern religion. In 2026, we still worship mysterious forces... like WiFi.
     `,
   },
   {
     slug: 'rome-converts-empire',
-    title: 'How Did Rome Convert the Empire?',
+    title: 'Rome Converts Empire: From Pagan Parties to Church Bingo',
     category: 'religion',
-    date: '2024-08-15',
+    date: '2026-04-10',
     content: `
-# How Did Rome Convert the Empire?
+# Rome Converts Empire: From Pagan Parties to Church Bingo
 
-Christianity became the official religion of the Roman Empire through a complex process spanning centuries.
+Rome went from "Hail Jupiter!" to "Hail Mary!" in centuries. Basically, the world's biggest religious makeover.
 
 ## Early Days
-- Jesus and apostles spread Christianity in the 1st century
-- Initially persecuted by Roman authorities
-- Constantine's Edict of Milan (313 AD) granted religious tolerance
+- Jesus and crew spreading the good word in the 1st century
+- Romans: "Crucify them... wait, this is kinda catchy"
+- Constantine: "Hey, let's tolerate these Christians" (313 AD)
 
 ## Theodosius I
-- Made Christianity the official religion in 380 AD
-- Banned pagan sacrifices
-- Closed temples
+- Made Christianity official in 380 AD
+- Banned pagan BBQ sacrifices
+- Closed temples: "Party's over, folks"
 
 ## Factors in Conversion
-- Imperial patronage
-- Organization and structure
-- Social services (charity, hospitals)
-- Adaptation to Roman culture
-- Decline of pagan alternatives
+- Emperor endorsement: "What Caesar likes, Rome likes"
+- Organized structure: Better than chaotic pagan festivals
+- Charity work: Hospitals and soup kitchens (free food wins)
+- Cultural blending: Jesus + Roman gods = hybrid fun
+- Pagan decline: Old ways getting boring
 
 ## Legacy
-This conversion shaped Western civilization and influenced the spread of Christianity worldwide.
+Shaped Western civ. Christianity spread globally. In 2026, we're still arguing about it over dinner.
+
+Moral: Never underestimate free healthcare and good marketing.
     `,
   },
 
   // Conspiracy Theory
   {
     slug: 'moon-landing-hoax',
-    title: 'Moon Landing Conspiracy Theories',
+    title: 'Moon Landing: Hollywood\'s Greatest Practical Joke?',
     category: 'conspiracy-theory',
-    date: '2024-07-05',
+    date: '2026-04-10',
     content: `
-# Moon Landing Conspiracy Theories
+# Moon Landing: Hollywood's Greatest Practical Joke?
 
-Despite overwhelming evidence, some claim the 1969 Moon landing was faked.
+Some say the 1969 Moon landing was faked. Like a giant prank where NASA hired Stanley Kubrick as director.
 
 ## Main Claims
-- Flag waving in "wind"
-- No stars in photos
-- Shadow inconsistencies
-- Van Allen radiation belts
-- Technology limitations
+- Flag waving: "There's wind on the Moon? Suspicious!"
+- No stars: "Photoshop was invented in 1969?"
+- Shadows wrong: "Multiple light sources? Conspiracy!"
+- Radiation belts: "Should've fried them like bacon"
+- Tech limits: "They couldn't even make a decent flip phone!"
 
 ## Counter-Evidence
-- Retroreflectors on Moon used by scientists
-- Thousands of witnesses and participants
-- Independent tracking by Soviets
-- Physical Moon rocks brought back
-- Real-time TV broadcasts
+- Moon mirrors: Scientists bounce lasers off them daily
+- Witnesses: Thousands who'd spill for a reality show
+- Soviets tracked it: "We saw it, and we're not happy"
+- Moon rocks: "Taste like regolith, not studio dust"
+- Live TV: "Broadcast from the Moon? Impossible... or was it?"
 
 ## Why It Persists
-- Cold War propaganda
-- Anti-government sentiment
-- Misinformation online
-- Psychological factors
+- Cold War mind games
+- Government hate: "They lie about everything!"
+- Online echo chambers
+- Brain loves puzzles
 
-The theory has been repeatedly debunked by experts.
+Debunked a million times, but conspiracy bros won't quit. In 2026, they claim Mars landings are fake too.
     `,
   },
   {
     slug: 'flat-earth-theory',
-    title: 'The Flat Earth Theory',
+    title: 'Flat Earth: When Gravity Just Doesn\'t Cut It',
     category: 'conspiracy-theory',
-    date: '2024-06-20',
+    date: '2026-04-10',
     content: `
-# The Flat Earth Theory
+# Flat Earth: When Gravity Just Doesn't Cut It
 
-Flat Earth theory claims Earth is flat, not spherical, and that space agencies are involved in a massive cover-up.
+Flat Earth theory: Earth is a pancake, space agencies are liars, and gravity's just a suggestion. In 2026, it's got more followers than some religions.
 
 ## Beliefs
-- Earth is a flat disk
-- Antarctica is an ice wall containing the oceans
-- Gravity doesn't exist; density causes objects to "sink"
-- Space travel is impossible
+- Earth: Flat frisbee floating in space
+- Antarctica: Ice wall keeping oceans in (like a cosmic bathtub)
+- No gravity: Things "sink" due to density (science!)
+- Space travel: CGI and green screens
 
 ## Origins
-Ancient ideas revived in modern times. Gained popularity through social media.
+Ancient myths revived by YouTubers. "Globers are sheep!"
 
 ## Evidence Against
-- Ships disappearing hull-first over horizon
-- Lunar eclipses
-- Satellite imagery
-- Airplane flight paths
-- Space missions
-- Gravity experiments
+- Ships vanish hull-first: Curvature, baby!
+- Eclipses: Only possible on a sphere
+- Satellites: GPS works, sorry
+- Flights: Round-the-world trips exist
+- Experiments: Gravity's real, deal with it
 
 ## Appeal
-- Simple explanation for complex phenomena
-- Anti-authority sentiment
-- Community and belonging
+- Simple: "No complicated math!"
+- Anti-establishment: "NASA lies!"
+- Community: "We're the smart ones"
+- Belonging: Conspiracy clubs are tight-knit
 
-Despite scientific consensus, the theory persists among some groups.
+Scientific consensus? Pfft. In 2026, flat-Earthers are building their own "space program" (it's just a hot air balloon).
     `,
   },
 ];
