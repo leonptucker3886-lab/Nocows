@@ -17,6 +17,7 @@ The template is a clean Next.js 16 starter with TypeScript and Tailwind CSS 4. I
 - [x] Created "No Sacred Cows" blog with animated logo, navigation, search, categories, and articles
 - [x] Updated all articles to be funny and relevant to 2026 (non-historical categories)
 - [x] Fixed 404 error on article pages by making params asynchronous for Next.js 16 compatibility
+- [x] Added images to all blog articles and updated home page to display article preview images
 
 ## Current Structure
 

@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState, useMemo } from 'react';
 import { articles } from '../lib/articles';
 
@@ -86,21 +87,32 @@ export default function Home() {
         ) : (
           filteredArticles.map((article) => (
             <article key={article.slug} className="bg-white p-6 rounded-lg shadow-md">
-              <div className="flex justify-between items-start mb-4">
-                <h2 className="text-2xl font-semibold text-gray-800">
+              <div className="flex gap-4">
+                <Image
+                  src={article.image}
+                  alt={article.title}
+                  width={96}
+                  height={96}
+                  className="w-24 h-24 object-cover rounded-lg flex-shrink-0"
+                />
+                <div className="flex-1">
+                  <div className="flex justify-between items-start mb-4">
+                    <h2 className="text-2xl font-semibold text-gray-800">
                   <Link href={`/${article.category}/${article.slug}`} className="hover:text-blue-600">
                     {article.title}
                   </Link>
-                </h2>
-                <span className="text-sm text-gray-500">{article.date}</span>
+                    </h2>
+                    <span className="text-sm text-gray-500">{article.date}</span>
+                  </div>
+                  <p className="text-gray-600 capitalize mb-2">{article.category.replace('-', ' ')}</p>
+                  <p className="text-gray-700 line-clamp-3">
+                    {article.content.split('\n').find(line => line.trim() && !line.startsWith('#'))?.trim() || 'Read more...'}
+                  </p>
+                  <Link href={`/${article.category}/${article.slug}`} className="text-blue-600 hover:underline mt-4 inline-block">
+                    Read more →
+                  </Link>
+                </div>
               </div>
-              <p className="text-gray-600 capitalize mb-2">{article.category.replace('-', ' ')}</p>
-              <p className="text-gray-700 line-clamp-3">
-                {article.content.split('\n').find(line => line.trim() && !line.startsWith('#'))?.trim() || 'Read more...'}
-              </p>
-              <Link href={`/${article.category}/${article.slug}`} className="text-blue-600 hover:underline mt-4 inline-block">
-                Read more →
-              </Link>
             </article>
           ))
         )}
