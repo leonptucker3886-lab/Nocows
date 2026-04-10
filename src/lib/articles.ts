@@ -14,7 +14,7 @@ export const articles: Article[] = [
      title: 'Trump and the 2026 Election Shenanigans',
      category: 'politics',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1583339793403-3d9b001b8d19?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=1',
      content: `
  # Trump and the 2026 Election Shenanigans
 
@@ -35,7 +35,7 @@ export const articles: Article[] = [
      title: 'Political Polarization: Now With Extra Crazy Sauce',
      category: 'politics',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1555848962-6e79363ec58f?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=2',
      content: `
  # Political Polarization: Now With Extra Crazy Sauce
 
@@ -62,7 +62,7 @@ export const articles: Article[] = [
      title: 'Alexander the Great: The OG Road Tripper',
      category: 'who-was',
      date: '2024-08-20',
-     image: 'https://images.unsplash.com/photo-1555992336-fb0d29498b13?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=3',
      content: `
  # Alexander the Great: The OG Road Tripper
 
@@ -87,7 +87,7 @@ export const articles: Article[] = [
      title: 'Cleopatra VII: Queen of Sass and Strategy',
      category: 'who-was',
      date: '2024-07-10',
-     image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=19',
      content: `
  # Cleopatra VII: Queen of Sass and Strategy
 
@@ -115,7 +115,7 @@ export const articles: Article[] = [
      title: 'Elon Musk: Mars Colonizer or Mars Bar Lover?',
      category: 'who-is',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=5',
      content: `
  # Elon Musk: Mars Colonizer or Mars Bar Lover?
 
@@ -141,7 +141,7 @@ export const articles: Article[] = [
      title: 'Greta Thunberg: Climate Warrior Extraordinaire',
      category: 'who-is',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1544717297-fa95b6ee9643?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=6',
      content: `
  # Greta Thunberg: Climate Warrior Extraordinaire
 
@@ -169,7 +169,7 @@ export const articles: Article[] = [
      title: 'Altcoins: Bitcoin\'s Weird Cousins',
      category: 'crypto',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=7',
      content: `
  # Altcoins: Bitcoin's Weird Cousins
 
@@ -197,7 +197,7 @@ export const articles: Article[] = [
      title: 'Bitcoin Halving: The Crypto Diet',
      category: 'crypto',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1605792657660-596af9009e82?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=8',
      content: `
  # Bitcoin Halving: The Crypto Diet
 
@@ -226,7 +226,7 @@ export const articles: Article[] = [
      title: 'Sex Robots: Your Future Valentine?',
      category: 'ai',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=9',
      content: `
  # Sex Robots: Your Future Valentine?
 
@@ -254,7 +254,7 @@ export const articles: Article[] = [
      title: 'AI Kill Switch: Panic Button or Placebo?',
      category: 'ai',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=10',
      content: `
  # AI Kill Switch: Panic Button or Placebo?
 
@@ -286,7 +286,7 @@ export const articles: Article[] = [
      title: 'Humans: Basically Useless Chimps With Phones',
      category: 'science',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=11',
      content: `
  # Humans: Basically Useless Chimps With Phones
 
@@ -315,7 +315,7 @@ export const articles: Article[] = [
      title: 'The Universe: Basically a Giant Firework',
      category: 'science',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1446776877081-d282a0f896e2?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=12',
      content: `
  # The Universe: Basically a Giant Firework
 
@@ -346,7 +346,7 @@ export const articles: Article[] = [
      title: 'Narcissism: Loving Yourself Too Much (And Everyone Else Too Little)',
      category: 'mental-health',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=13',
      content: `
  # Narcissism: Loving Yourself Too Much (And Everyone Else Too Little)
 
@@ -376,7 +376,7 @@ export const articles: Article[] = [
      title: 'BPD: Emotional Rollercoaster Without the Fun',
      category: 'mental-health',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=14',
      content: `
  # BPD: Emotional Rollercoaster Without the Fun
 
@@ -409,7 +409,7 @@ export const articles: Article[] = [
      title: 'Cavemen Religion: Basically Worshipping Rocks and Bad Drawings',
      category: 'religion',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=15',
      content: `
  # Cavemen Religion: Basically Worshipping Rocks and Bad Drawings
 
@@ -439,7 +439,7 @@ export const articles: Article[] = [
      title: 'Rome Converts Empire: From Pagan Parties to Church Bingo',
      category: 'religion',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=16',
      content: `
  # Rome Converts Empire: From Pagan Parties to Church Bingo
 
@@ -475,7 +475,7 @@ export const articles: Article[] = [
      title: 'Moon Landing: Hollywood\'s Greatest Practical Joke?',
      category: 'conspiracy-theory',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=17',
      content: `
  # Moon Landing: Hollywood's Greatest Practical Joke?
 
@@ -509,7 +509,7 @@ export const articles: Article[] = [
      title: 'Flat Earth: When Gravity Just Doesn\'t Cut It',
      category: 'conspiracy-theory',
      date: '2026-04-10',
-     image: 'https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=400&h=250&fit=crop',
+     image: 'https://picsum.photos/400/250?random=18',
      content: `
  # Flat Earth: When Gravity Just Doesn't Cut It
 
